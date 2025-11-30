@@ -38,7 +38,6 @@ Here are a few things I’ve built or contributed to:
 ---
 
 ## 🌐 Portfolio
-- Personal link page (GitHub Pages):  
-  https://sinusab.github.io/My_links  
+- Personal link page (GitHub Pages):  https://sinusab.github.io/My_links  
 - Email: **Sinaabyar16@gmail.com**
 
